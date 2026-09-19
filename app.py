@@ -9,7 +9,7 @@ st.sidebar.title("Parámetros")
 
 st.write("Elaborado por Andrés Alvear")
 
-capital = st.number.input("ingrese el Capital")
+capital = st.number_input("ingrese el Capital")
 tasa_anualpct = st.number_input("Ingrese la tasa anual")
 dia_mora = st.number_input("Ingrese los días de mora")
 
