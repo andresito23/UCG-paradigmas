@@ -12,4 +12,4 @@ st.write("Elaborado por Andrés Alvear")
 capital = st.number.input ("ingrese el Capital")
 tasa_anualpct = st.number_input ("Ingrese la tasa anual")
 
-resultado = lf.calcular_interes_mora()
+#resultado = lf.calcular_interes_mora()
